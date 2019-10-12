@@ -1,0 +1,19 @@
+
+{
+	"name": "Groot",
+	"live_product": "LIVE",
+	"automate_product": "AUTOMATE",
+	"applive_product": "APPLIVE",
+	"appautomate_product": "APP-AUTOMATE",
+	"feature1": "Paralle tests",
+	"feature2": "Real Mobile platforms",
+	"realmobile": "Real Mobile",
+	"desktop": "Desktop browsers",
+	"android": "Android",
+	"ios": "Ios",
+	"local": "Local Testing",
+	"browsers": "IE, Edge, Safari, Chrome, Firefox",
+	"real": "Real",
+	"installed": "Installed",
+	"company": "BrowserStack"
+}

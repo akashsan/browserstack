@@ -1,0 +1,11 @@
+Hello '&name&', Welcome to &company&!
+
+We have awesome products - &&live_product&&, #&automate_product&&, //&applive_product&, <!--&appautomate_product&-->
+Silent features:
+  - /&feature1&/
+  - !&feature2&!
+  - /&screenshot&/
+Instant access to all <strong>&realmobile&</strong> and <strong>&desktop&</strong>. Say goodbye to your lab of devices and virtual machines.
+Test on a range of physical <i>&android&</i> & <i>&ios&</i> mobile devices and tablets for the most accurate results. Latest versions of &browsers& and more on a range of Windows and OS X platforms on a robust cloud infrastructure. Our *&local&* feature allows you to test development and internal websites &seamlessly&, without setup or configuration. &real& browsers on &real& machines. Just like a locally installed browser, with media streaming, developer tools, keyboard shortcuts, and much more.
+
+<p>Powered by &company&</p>

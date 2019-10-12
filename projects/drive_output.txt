@@ -1,0 +1,5 @@
+Hello 'Groot', Welcome to BrowserStack!
+
+We have awesome products - live_product, #AUTOMATEapplive_productappautomate_productfeature1feature2screenshotrealmobiledesktopandroid <i>Ios</i> mobile devices and tablets for the most accurate results. Latest versions of IE, Edge, Safari, Chrome, Firefox and more on a range of Windows and OS X platforms on a robust cloud infrastructure. Our *Local Testing* feature allows you to test development and internal websites , without setup or configuration. Real browsers on Real machines. Just like a locally installed browser, with media streaming, developer tools, keyboard shortcuts, and much more.
+
+<p>Powered by BrowserStack</p>
